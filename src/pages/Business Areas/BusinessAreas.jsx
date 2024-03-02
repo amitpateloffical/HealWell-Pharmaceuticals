@@ -82,12 +82,12 @@ function BusinessAreas() {
                         <div className="col-md-9">
                             <div className="container">
                                 <div className="heading-business m-4" data-aos="fade-left">
-                                    We provide comprehensive range of specialty branded generic products targeting broad spectrum of chronic and acute therapies. We clearly understand our customers’ needs and use cutting-edge technology to present innovative solutions.
+                                HealWell Pharmaceuticals is a premier name in pharmaceuticals, recognized for our unwavering commitment to quality, innovation, and patient care. We pride ourselves on our cutting-edge research and development, which has resulted in groundbreaking treatments and therapies. Our team's dedication to scientific advancement, ethical practices, and environmental responsibility ensures that our products are not only effective but also sustainable. Join us in our journey to set new standards in healthcare excellence
                                 </div>
                             </div>
                             <div className="paratwo p-5 mb-4">
                                 <div className="overview-part2 p-1" data-aos="fade-left">
-                                    We carefully identify gaps in our markets and commit ourselves to get the products to market places ahead of the competition giving huge competitive advantage of 1st to market. Our products have the hallmark of technology-based differentiation and cover the full range of dosage forms, including tablets, capsules, injectables, inhalers, ointments, creams and liquids.
+                                HealWell Pharmaceuticals is at the forefront of transforming healthcare through innovative research and development. Our team of experts is dedicated to developing groundbreaking therapies and treatments that enhance the quality of life for patients worldwide. We are committed to ensuring the highest standards of safety and efficacy in all our products. Through collaboration with healthcare providers and patients, we are pioneering advancements that are shaping the future of healthcare. Join us as we work together to transform lives and create a healthier world for all
                                 </div>
                             </div>
                         </div>

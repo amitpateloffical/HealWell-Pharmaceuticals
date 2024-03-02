@@ -22,7 +22,7 @@ function Home() {
           <div className=" g-5 align-items-center slider-img">
             <div className="  wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
               <div className="">
-                <img className="img-fluid" src="https://media.istockphoto.com/id/1309776504/photo/female-research-scientist-with-bioengineer-working-on-a-personal-computer-with-screen-showing.jpg?s=612x612&w=0&k=20&c=FBI79EWdoWHailbTGvQWBBYOiOfx7owZLWuNnQxuDqo=" />
+                <img className="img-fluid" src="https://img.freepik.com/free-photo/drugstore-worker-advising-buyer-food-additive-tablets-explaining-vitamin-c-benefits-pharmacy-assistant-talking-with-young-asian-woman-about-dietary-supplements-apothecary_482257-62193.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div
@@ -33,10 +33,8 @@ function Home() {
               <div className="home-head rounded-pill  px-3 mb-3">
                 Business Area
               </div>
-              <h1 className="heading-about">Clear Strategy, Consistent Performance</h1>
-              <p className="home-para">"Driven by our passion for advancing medical science and improving patient
-                outcomes, we continuously invest in research and development to
-                bring new and groundbreaking treatments to market"</p>
+              <h1 className="heading-about"> Your Partner in Health</h1>
+              <p className="home-para">"HealWell is your trusted partner in health, committed to providing innovative pharmaceutical solutions. With a focus on quality, safety, and affordability, we are dedicated to enhancing lives and improving health outcomes. Our team of experts is driven by a passion for innovation and excellence, making us a leader in the pharmaceutical industry. From research and development to manufacturing and distribution, we are committed to delivering superior products and services. Together, we can achieve better health for all"</p>
             </div>
           </div>
         </div>
@@ -54,17 +52,19 @@ function Home() {
               <div className="home-head rounded-pill px-3 mb-3">
                 Manufacturing
               </div>
-              <h1 className="heading-about">Providing Quality Products</h1>
-              <p className="home-para">"At Mediva Pharmaceuticals , we believe that quality is the cornerstone of every
-                product we deliver. Our state-of-the-art manufacturing facilities are equipped
-                with cutting-edge technology and adhere to the highest international
-                standards to ensure the safety, purity,
-                and effectiveness of our pharmaceutical products.."</p>
+              <h1 className="heading-about">Advancing Healthcare with Precision Pharmaceutical Manufacturing</h1>
+              <p className="home-para">"Our pharmaceutical manufacturing division stands as a beacon of precision, driven by innovation and a relentless pursuit of excellence. Committed to upholding the highest standards of quality and safety, we harness cutting-edge technologies to create medicines that empower healing and transform lives. With a focus on sustainability and scalability, we provide tailored solutions that meet the dynamic demands of the healthcare industry. Explore how our meticulous approach to manufacturing is shaping the future of healthcare, one dose at a time.
+
+
+
+
+
+"</p>
 
             </div>
             <div className="wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
 
-              <img className="img-fluid" src="https://media.istockphoto.com/id/1212392754/photo/scientist-works-with-petri-dishes-with-various-bacteria-tissue-and-blood-samples-concept-of.jpg?s=612x612&w=0&k=20&c=CLcKr82Sq-gA0vPIywY5XylI7bTYT1h86Z4Oc5hqwUE=" />
+              <img className="img-fluid" src="https://img.freepik.com/free-photo/pharmaceutical-factory-man-worker-protective-clothing-operating-production-line-sterile-environment_645730-268.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
 
             </div>
           </div>
@@ -77,7 +77,7 @@ function Home() {
           <div className=" g-5 align-items-center slider-img">
             <div className="  wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
               <div className="">
-                <img className="img-fluid"  src="https://media.istockphoto.com/id/997784670/photo/pharma-logistician-using-iot-based-on-blockchain.jpg?s=612x612&w=0&k=20&c=mDTYaUEB4laXzb6AQGeHs12liZu-denwznwIgTlIDh8=" />
+                <img className="img-fluid"  src="https://img.freepik.com/free-photo/young-hispanic-man-pharmacist-smiling-confident-scanning-pills-bottle-pharmacy_839833-10375.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div
@@ -88,12 +88,8 @@ function Home() {
               <div className="home-head rounded-pill  px-3 mb-3">
                 Research & Development
               </div>
-              <h1 className="heading-about">The Innovation Edge</h1>
-              <p className="home-para">" we are committed to advancing the boundaries of medical science
-                and improving healthcare outcomes through innovative research and development.
-                Our state-of-the-art laboratories and dedicated team of scientists and researchers
-                work tirelessly to discover and develop
-                groundbreaking medicines that address unmet medical needs."</p>
+              <h1 className="heading-about">Shaping the Future of Medicine: HealWell Pharmaceuticals' Trailblazing Research & Development</h1>
+              <p className="home-para">" At HealWell Pharmaceuticals, our Research & Development (R&D) team is committed to advancing healthcare through groundbreaking innovation. We're pushing the boundaries of medical science to create life-changing therapies and treatments. From discovery to development and beyond, our R&D team is pioneering the future of medicine. Join us on our mission to transform the landscape of healthcare for the bette"</p>
 
             </div>
           </div>
@@ -112,20 +108,13 @@ function Home() {
               <div className="home-head rounded-pill px-3 mb-3">
                 About Us
               </div>
-              <h1 className="heading-about">Clear Strategy, Consistent Performance</h1>
-              <p className="home-para"> "Welcome to Mediva Pharmaceuticals, where our mission is to revolutionize healthcare through innovative,
-                life-changing medicines. As a global leader in pharmaceuticals,
-                we specialize in developing cutting-edge treatments for a wide range of medical conditions.
-                Our commitment to excellence drives us to consistently deliver safe, effective,
-                and affordable solutions that improve patient outcomes and enhance quality of life.
-                Backed by a team of dedicated scientists, researchers, and healthcare professionals,
-                we strive to make a meaningful impact on the world by pushing the boundaries
-                of medical science and improving access to healthcare for all."</p>
+              <h1 className="heading-about">Where Wellness Meets Innovation</h1>
+              <p className="home-para"> "where we’re dedicated to bridging the gap between healthcare and wellness. Our commitment to innovation drives us to develop cutting-edge pharmaceuticals that address the most pressing health challenges. Every product we create is the result of rigorous research and development, ensuring safety, efficacy, and reliability. But we don’t just stop there - we're constantly striving to improve our processes and products, so we can bring you the highest-quality medications at the most affordable prices. Because we believe that everyone deserves access to quality healthcare. Join us in our mission to make wellness accessible to all. Welcome to LifePharma, where health and happiness meet innovation."</p>
 
             </div>
             <div className="wow fadeIn abouts" data-wow-delay="0.1s" data-aos="fade-right">
 
-              <img className="img-fluid" height={"344px"} width={"612px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVdBgChoX8FO4cd2EFWKcB8FCPKMVjYSr4g&usqp=CAU" />
+              <img className="img-fluid" height={"344px"} width={"612px"} src="https://img.freepik.com/premium-photo/laboratory-glass-with-liquids-generative-ai_935190-376.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
 
             </div>
           </div>

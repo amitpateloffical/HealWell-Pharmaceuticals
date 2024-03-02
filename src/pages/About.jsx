@@ -58,13 +58,13 @@ function About() {
           <div className="row g-2 align-items-center">
             <div className="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
               <h3 className=" text-center fs-2 pt-3">
-              Mediva Pharmaceuticals: Advancing Healthcare through Innovation and Excellence
+              HealWell Pharmaceuticals: Advancing Healthcare through Innovation and Excellence
               </h3>
               <div className="paragraph_container ">
                 <p className="paragraph fs-5 pt-2">
-                Mediva Pharmaceuticals stands as a beacon of innovation and excellence in the 
+                HealWell Pharmaceuticals stands as a beacon of innovation and excellence in the 
                 realm of healthcare. With a steadfast commitment to advancing medical science 
-                and improving patient outcomes, Mediva spearheads groundbreaking research and development 
+                and improving patient outcomes, HealWell spearheads groundbreaking research and development 
                 initiatives. By harnessing cutting-edge technologies and leveraging top-tier expertise, the company 
                 pioneers novel treatments for a myriad of diseases and medical conditions.
                 </p>
@@ -84,7 +84,7 @@ function About() {
               data-wow-delay="0.1s"
             >
               <div className="abouts">
-                <img className="img-fluid" src="https://cdn.pixabay.com/photo/2012/04/10/17/40/vitamins-26622_1280.png" />
+                <img className="img-fluid" src="https://img.freepik.com/free-vector/vector-empty-transparent-pill-capsules_107791-1929.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div
@@ -101,7 +101,7 @@ function About() {
                 >
                   <li className="list-group-item" data-aos="fade-left">
                     <b> Innovative Solutions: </b>
-                    Mediva Pharmaceuticals pioneers innovative healthcare solutions.
+                    HealWell Pharmaceuticals pioneers innovative healthcare solutions.
                   </li>
                   <li className="list-group-item" data-aos="fade-left">
                     <b> Excellence in Healthcare: </b>
@@ -129,7 +129,7 @@ function About() {
           <div className="row g-5 align-items-center">
             <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
               <h3 className="mb-4" data-aos="fade-right">
-                By partnering with Mediva Pharmaceuticals, you can:
+                By partnering with HealWell Pharmaceuticals, you can:
               </h3>
               <div className="content_container">
                 <ul
@@ -157,7 +157,7 @@ function About() {
                 data-aos="fade-right"
               >
                 <h5 className="ps_paragraph">
-                Contact Mediva Pharmaceuticals today to explore our innovative healthcare solutions.
+                Contact HealWell Pharmaceuticals today to explore our innovative healthcare solutions.
 
 
                 </h5>
@@ -170,7 +170,7 @@ function About() {
               data-wow-delay="0.1s"
             >
               <div className="abouts">
-                <img className="img-fluid" src="https://cdn.pixabay.com/photo/2018/04/13/18/22/houston-3317202_1280.jpg" />
+                <img className="img-fluid" src="https://img.freepik.com/premium-photo/biochemical-research-scientist-team-working-with-microscope-coronavirus-vaccine-development-pharmaceutical-research-labolatory-selective-focus_265022-49846.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
           </div>
@@ -187,7 +187,7 @@ function About() {
               data-wow-delay="0.1s"
             >
               <div className="aboutsimg">
-                <img className="img-fluid" src="https://cdn.pixabay.com/photo/2018/07/02/19/02/dietary-supplements-3512184_960_720.jpg" />
+                <img className="img-fluid" src="https://img.freepik.com/free-photo/nobody-scientific-laboratory-with-research-instruments_482257-19303.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
 
@@ -197,12 +197,12 @@ function About() {
               </h4>
               <div className="paragraph_container" data-aos="fade-left">
                 <p className="paragraph">
-                At Mediva Pharmaceuticals, our commitment to quality is paramount. We adhere to stringent quality policies to ensure the safety and efficacy of our products. Through rigorous testing, continuous improvement, and adherence to regulatory standards, we strive to deliver excellence in every aspect of our operations.
+                At HealWell Pharmaceuticals, our commitment to quality is paramount. We adhere to stringent quality policies to ensure the safety and efficacy of our products. Through rigorous testing, continuous improvement, and adherence to regulatory standards, we strive to deliver excellence in every aspect of our operations.
                 </p>
               </div>
               {" "}
               <h3 className="mb-4" data-aos="fade-left">
-                By partnering with Mediva Pharmaceuticals, you can:
+                By partnering with HealWell Pharmaceuticals, you can:
               </h3>
               <div className="content_container">
                 <ul
@@ -210,13 +210,13 @@ function About() {
                   ref={(ref) => listRefs.current.push(ref)}
                 >
                   <li className="list-group-item" data-aos="fade-left">
-                    <b> Global Impact: </b> Mediva Pharmaceuticals strives to make a meaningful impact on a global scale by improving access to healthcare and advancing medical science.
+                    <b> Global Impact: </b> HealWell Pharmaceuticals strives to make a meaningful impact on a global scale by improving access to healthcare and advancing medical science.
                   </li>
                   <li className="list-group-item" data-aos="fade-left">
                     <b> Ethical Standards: </b> We adhere to the highest ethical standards in all aspects of our operations, ensuring transparency and integrity in our business practices.
                   </li>
                   <li className="list-group-item" data-aos="fade-left">
-                    <b>Community Engagement: </b> Committed to giving back to the community, Mediva Pharmaceuticals actively participates in philanthropic initiatives and supports healthcare initiatives in underserved regions.
+                    <b>Community Engagement: </b> Committed to giving back to the community, HealWell Pharmaceuticals actively participates in philanthropic initiatives and supports healthcare initiatives in underserved regions.
                   </li>
 
                   <li className="list-group-item" data-aos="fade-left">
@@ -297,7 +297,7 @@ function About() {
               data-wow-delay="0.1s"
             >
               <div className="abouts">
-                <img className="img-fluid" src="https://cdn.pixabay.com/photo/2016/11/23/15/14/jars-1853439_1280.jpg" />
+                <img className="img-fluid" src="https://img.freepik.com/free-photo/biologist-researcher-analyzing-biological-slide-agriculture-expertise-using-microscope_482257-4595.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
 
@@ -307,7 +307,7 @@ function About() {
               </h4>
               <div className="paragraph_container" data-aos="fade-left">
                 <p className="paragraph">
-                "At Mediva Pharmaceuticals, our mission is to pioneer innovative healthcare solutions that enhance patient well-being and advance medical science. With a commitment to excellence in healthcare services and products, we strive to deliver cutting-edge research, adhere to the highest standards of quality assurance.
+                "At HealWell Pharmaceuticals, our mission is to pioneer innovative healthcare solutions that enhance patient well-being and advance medical science. With a commitment to excellence in healthcare services and products, we strive to deliver cutting-edge research, adhere to the highest standards of quality assurance.
                 </p>
               </div>
               <h3 className="mb-4" data-aos="fade-left">
